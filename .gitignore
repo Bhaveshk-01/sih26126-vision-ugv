@@ -1,0 +1,29 @@
+# ROS 2
+install/
+build/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ML
+*.pt
+*.pth
+*.onnx
+*.engine
+runs/
+
+# ROS bags / datasets
+*.bag
+*.db3
+*.mcap
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
